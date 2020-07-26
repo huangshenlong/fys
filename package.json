@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tensorflow-models/facemesh": "^0.0.3"
+  }
+}
