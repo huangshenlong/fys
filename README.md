@@ -17,4 +17,8 @@ mac osx, windows, ios,
 android, basically 
 everywhere.
 
+building this basically for
+TheSushiDragon and anyone who
+wants to be a superhero.
+
 
