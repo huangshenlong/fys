@@ -3,8 +3,8 @@ https://github.com/huangshenlong/fys
 
 Fab Your Stream
 
-AI Webcam to make you look
-fabulous at all times.
+AI Webcam to make you look like
+a dragon or super saiyan.
 
 fys reads from your webcam 
 and creates a virtual webcam
